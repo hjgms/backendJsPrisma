@@ -9,7 +9,7 @@ Uma aplicação backend feita com js, node, express e prisma orm.
 <img src="./exemple/imgs/Captura de Tela 2024-02-27 às 12.29.04.png" />
 
 <p> Buscando varios usuários. </h3>
-<img src="./exemple/imgs/Captura de Tela 2024-02-27 às 12.29.04.png" />
+<img src="./exemple/imgs/Captura de Tela 2024-02-27 às 12.30.25.png" />
 
 <h2> Post </h2>
 <img src="./exemple/imgs/Captura de Tela 2024-02-27 às 12.29.24.png" />
